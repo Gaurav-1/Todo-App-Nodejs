@@ -1,0 +1,12 @@
+{
+  "name": "todo_app",
+  "version": "1.0.0",
+  "description": "User story 1 : Your page should be divided in two parts.The left pane contains a list of tasks which 'll be fetched from the server. The right pane, by default contains a task form.",
+  "main": "todo_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
